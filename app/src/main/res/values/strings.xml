@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="txt_valor1">primer valor </string>
+    <string name="txt_valor2">segundo valor </string>
+    <string name="rb_sumar">sumar</string>
+    <string name="rb_restar">restar</string>
+    <string name="rb_producto">multiplicar</string>
+    <string name="rb_dividir">dividir</string>
+    <string name="button">calcular</string>
+    <string name="tv_resultado">resultado</string>
+
+</resources>
